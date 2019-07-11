@@ -19,6 +19,12 @@ textarea {
 	font-size: 13px;
 }
 
+#logotext {
+	color: #fff;
+	font-family: monospace;
+	font-size: 13px;
+}
+
 /* the line numbers */
 
 #linenos {

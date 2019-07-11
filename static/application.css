@@ -23,6 +23,7 @@ textarea {
 	color: #fff;
 	font-family: monospace;
 	font-size: 13px;
+	margin: 5px;
 }
 
 /* the line numbers */
@@ -75,6 +76,7 @@ textarea {
 	background: #08323c;
 	font-size: 0px;
 	padding: 0px 5px;
+	text-align: center;
 }
 
 #box1 a.logo, #box1 a.logo:visited {
